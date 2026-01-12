@@ -19,7 +19,7 @@ to practice layout, responsiveness, and clean structure.
 - Mobile-friendly
 - Desktop optimized
 
-# Live Link : https://whoishasan.github.io/responsive-profile-card
+### Live Link : https://whoishasan.github.io/responsive-profile-card
 
 ## 🚀 Purpose
 This project is part of my daily frontend fundamentals practice.
